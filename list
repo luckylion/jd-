@@ -1,0 +1,6 @@
+$("#plist li.gl-item").each(function(){
+    a=$(this);
+    a.hide();
+    var obj=$(this).find(".gl-i-wrap").attr("jdzy_shop_id");
+   	if(obj > 1000000000) a.show();
+  }); 
