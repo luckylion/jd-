@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://list.jd.com/list.html*
-// @match        https://search.jd.com/Search*
+// @match        *://list.jd.com/list.html*
+// @match        *://search.jd.com/Search*
 // @grant        none
 // ==/UserScript==
 function sx_list()
