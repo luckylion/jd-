@@ -6,6 +6,7 @@
 // @author       You
 // @match        *://list.jd.com/list.html*
 // @match        *://search.jd.com/Search*
+// @match        *://search.jd.com/search*
 // @grant        none
 // ==/UserScript==
 function sx_list()
